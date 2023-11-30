@@ -3,7 +3,7 @@
   become: yes
   become_user: decide
   git:
-    repo: 'https://github.com/wadobo/decide.git'
+    repo: 'https://github.com/Thealean28/turno-41-alegalpel.git'
     dest: /home/decide/decide
     version: master
 
